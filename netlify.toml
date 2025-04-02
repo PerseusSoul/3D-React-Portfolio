@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://bharath-devportfolio.netlify.app/*"
+  to = "https://bharath-devportfolio.vercel.app/:splat"
+  status = 301
+  force = true

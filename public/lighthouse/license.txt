@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mumbles Lighthouse 3D Scan
+* source:	https://sketchfab.com/3d-models/mumbles-lighthouse-3d-scan-1ac2ece0bbb24a64ae306eb43a18440c
+* author:	dynamic3dltd (https://sketchfab.com/dynamic3dltd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mumbles Lighthouse 3D Scan" (https://sketchfab.com/3d-models/mumbles-lighthouse-3d-scan-1ac2ece0bbb24a64ae306eb43a18440c) by dynamic3dltd (https://sketchfab.com/dynamic3dltd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

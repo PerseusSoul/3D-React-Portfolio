@@ -1,0 +1,11 @@
+Model Information:
+* title:	BATTLE BUS
+* source:	https://sketchfab.com/3d-models/battle-bus-b069acfb2e164cf7bf9121f15544ade4
+* author:	Alena Shek (https://sketchfab.com/ShekAlena)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BATTLE BUS" (https://sketchfab.com/3d-models/battle-bus-b069acfb2e164cf7bf9121f15544ade4) by Alena Shek (https://sketchfab.com/ShekAlena) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
