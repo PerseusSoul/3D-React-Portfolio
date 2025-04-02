@@ -2,7 +2,7 @@
    <a href="" align="center" target="_blank" rel="noreferrer">Please, Visit My Awesome Portfolio Site!</a>
 </div>
 
-![Screenshot 2024-06-17 at 1 23 06 PM](https://jmp.sh/qPfx2roI)
+![Screenshot 2024-06-17 at 1 23 06 PM](https://github.com/PerseusSoul/3D-React-Portfolio/blob/main/src/assets/Portfolio.png)
 
 ## 📋 <a name="table">Table of Contents</a>
 
